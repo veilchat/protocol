@@ -22,8 +22,8 @@ These are some common aliases:
 - [x] Auth:
     - [x] Password hashing
     - [x] Token generation
-- [ ] Identity:
-    - [ ] ! PK generation
+- [x] Identity:
+    - [x] ! PK generation
 - [ ] WS:
     - [ ] !! Basic server-side code
     - [ ] !! Base server events
