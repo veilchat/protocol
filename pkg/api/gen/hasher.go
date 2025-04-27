@@ -1,4 +1,4 @@
-package auth
+package gen
 
 import (
 	"crypto/hmac"
